@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AddLib.iml" filepath="$PROJECT_DIR$/AddLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TopotekModule/TopotekModule.iml" filepath="$PROJECT_DIR$/TopotekModule/TopotekModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary340dev/openCVLibrary340dev.iml" filepath="$PROJECT_DIR$/openCVLibrary340dev/openCVLibrary340dev.iml" />
+    </modules>
+  </component>
+</project>

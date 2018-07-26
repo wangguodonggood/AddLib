@@ -1,0 +1,8 @@
+<root>
+    <item
+        name='android.hardware.usb.UsbDevice UsbDevice(java.lang.String, int, int, int, int, int, java.lang.String, java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.Nls'>
+            <val name="capitalization" val="org.jetbrains.annotations.Nls.Capitalization.Title" />
+        </annotation>
+    </item>
+</root>
